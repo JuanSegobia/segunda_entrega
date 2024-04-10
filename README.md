@@ -1,2 +1,2 @@
-# segunda_entrega
- Practica 2 de seminario de Python
+Juan Cruz Segobia Esteves
+Legajo: 19113/6
